@@ -1,0 +1,7 @@
+.venv/
+out/
+__pycache__/
+*.pyc
+.DS_Store
+screenshot.tape
+screenshot.png

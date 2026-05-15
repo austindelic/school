@@ -1,0 +1,6 @@
+[project]
+name = "delic-austin22930121-iserepo"
+version = "0.1.0"
+description = "ISAD1000/5004 seasons and temperature assignment"
+requires-python = ">=3.10"
+dependencies = []
