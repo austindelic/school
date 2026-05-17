@@ -1,0 +1,9 @@
+# command,country/city,fields
+meteorological,Australia,January
+traditional,Australia,August
+compare,Australia,Japan,January
+compare,Malaysia,Sri Lanka,July
+temp,Perth,Evening,29.0
+perth,Brisbane,Morning,31.0
+temp,Adelaide,Morning,121
+meteorological,Canada,March
