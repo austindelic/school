@@ -1,0 +1,8 @@
+Line 2: The meteorological season in Australia in January is Summer.
+Line 3: The traditional season in Australia in August is Djilba.
+Line 4: Australia and Japan have different meteorological seasons in January: Australia has Summer, Japan has Winter.
+Line 5: Malaysia and Sri Lanka have the same meteorological season in July: Southeast Monsoon.
+Line 6: 29.0C is above Perth's afternoon average of 23.0C by 6.0C.
+Line 7: 31.0C is above Perth's morning average of 18.2C by 12.8C. The difference is more than 6.0C.
+Line 8: ERROR: Temperature 121.0C is outside the valid range for Adelaide (-1.0C to 49.0C).
+Line 9: ERROR: Unsupported country 'Canada'. Supported countries: Australia, Spain, Japan, Mauritius, Malaysia, Sri Lanka.
